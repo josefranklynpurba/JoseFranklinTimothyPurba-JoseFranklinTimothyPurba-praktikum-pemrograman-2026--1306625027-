@@ -1,8 +1,8 @@
 # Modul [01] - [Nama Topik Modul]
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** [Jose Franklin Timothy Purba]  
+**NIM:** [1306625027]  
+**Kelas:** [Fisika C]  
 
 ---
 
