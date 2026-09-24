@@ -18,13 +18,13 @@
 > 2. Cetak/Print Judul "Program Konversi Suhu"
 > 3. Print "Nama : Jose Franklin Timothy Purba"
 > 4. Print "NIM: 1306625027"
-> 5. Input "Suhu Awal:   "
-> 6. Input "Suhu Akhir:   "
-> 7. Input "Selang:   "
+> 5. Input "Suhu Awal: 0"
+> 6. Input "Suhu Akhir: 100"
+> 7. Input "Selang: 10"
 > 8. Print "TABEL KONVERSI"
 > 9. Print "
-> 10. Hitung Celsius ke Reamur : 4/5
-> 11. Hitung Celsius ke Fahrenheit :
+> 10. Hitung Celsius ke Reamur : 4/5 x C.
+> 11. Hitung Celsius ke Fahrenheit : 9/5 x C + 32.
 > 12. Print Hasil
 > 13. Selesai
 
