@@ -1,4 +1,4 @@
-# Modul [01] - [Nama Topik Modul]
+# Modul [01] - [Tabel Konversi Suhu]
 
 **Nama:** [Jose Franklin Timothy Purba]  
 **NIM:** [1306625027]  
@@ -7,10 +7,11 @@
 ---
 
 ## 1. Problem Statement
-> Jelaskan latar belakang masalah, parameter yang diketahui, serta tujuan dari praktikum atau pemodelan pada modul ini.
+> Membuat tabel konversi suhu dengan pemrograman dari Celcius terhadap Reamur dan Celcius terhadap Fahrenheit.
 
 ## 2. Mathematical Equation
-> Tuliskan persamaan fisika/matematika, rumus numerik, atau penurunan rumus yang digunakan dalam modul ini menggunakan format LaTeX.
+> Celcius terhadap Reamur : R = 4/5 x C
+> Celcius terhadap Fahrenheit : F = 9/5 x C + 32.
 
 ## 3. Algorithm
 > 1. Mulai
