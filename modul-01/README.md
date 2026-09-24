@@ -22,7 +22,7 @@
 > 6. Input "Suhu Akhir: 100"
 > 7. Input "Selang: 10"
 > 8. Print "TABEL KONVERSI"
-> 9. Print "
+> 9. Print "Format ('No,'Celcius(C)','Reamur(R)','Fahrenheit(F)' 
 > 10. Hitung Celsius ke Reamur : 4/5 x C.
 > 11. Hitung Celsius ke Fahrenheit : 9/5 x C + 32.
 > 12. Print Hasil
