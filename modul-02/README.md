@@ -2,7 +2,7 @@
 
 **Nama:** [Jose Franklin Timothy Purba]  
 **NIM:** [1306625027]  
-**Kelas:** [Kelas/Kelompok]  
+**Kelas:** [Fisika C]  
 
 ---
 
