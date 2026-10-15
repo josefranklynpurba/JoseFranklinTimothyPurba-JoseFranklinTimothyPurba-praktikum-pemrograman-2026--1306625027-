@@ -29,7 +29,7 @@
 Program aktif dan menampilkan informasi identitas mahasiswa (Nama: Jose Franklin Timothy Purba, NIM: 1306625027) pada layar terminal.
 
 > 2. Memuat Database
-Program membaca file nilai_mahasiswa.csv lalu menyimpan seluruh data komponen nilai 124 mahasiswa ke dalam memori sistem.
+Program membaca file DataNilai.xlsx lalu menyimpan seluruh data komponen nilai 124 mahasiswa ke dalam memori sistem.
 
 > 3. Menerima Input (Mulai Perulangan WHILE)
 Program meminta pengguna mengetikkan nomor mahasiswa yang ingin dicari atau mengetik kata 'keluar' untuk mengakhiri program.
