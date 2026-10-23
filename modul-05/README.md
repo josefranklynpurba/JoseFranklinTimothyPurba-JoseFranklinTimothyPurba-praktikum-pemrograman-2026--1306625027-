@@ -1,16 +1,22 @@
-# Modul [05] - [Nama Topik Modul]
+# Modul [05] - [Mengurutkan (Sorting)]
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** [Jose Franklin Timothy Purba]  
+**NIM:** [1306625027]  
+**Kelas:** [Fisika C]  
 
 ---
 
 ## 1. Problem Statement
-> Jelaskan latar belakang masalah, parameter yang diketahui, serta tujuan dari praktikum atau pemodelan pada modul ini.
+> Menyusun dan menyajikan data acak tersebut secara terstruktur sehingga berurutan dari nilai yang paling kecil hingga nilai yang paling besar (ascending order).
 
 ## 2. Mathematical Equation
-> Tuliskan persamaan fisika/matematika, rumus numerik, atau penurunan rumus yang digunakan dalam modul ini menggunakan format LaTeX.
+> \text{Kondisi Perbandingan:} \quad A[j] > A[j+1] \quad \text{dimana } 0 \le j < n - i - 1
+> \text{Operasi Pertukaran:} \quad 
+\begin{cases} 
+\text{temp} = A[j] \\ 
+A[j] = A[j+1] \\ 
+A[j+1] = \text{temp} 
+\end{cases}.
 
 ## 3. Algorithm
 > Tuliskan langkah-langkah logika penyelesaian masalah secara sistematis sebelum diimplementasikan ke dalam kode Python (`main.py`).
